@@ -19,7 +19,7 @@ export const SITE_CONFIG = {
     reservationsEmail: "stay@suryavanshhaveli.example.com",
   },
   seo: {
-    domain: "https://suryavanshhaveli.example.com",
+    domain: "https://hotel-template-2.vercel.app",
     defaultTitle: "Suryavansh Haveli | Luxury Boutique Heritage Hotel in Jaisalmer, Rajasthan",
     titleTemplate: "%s | Suryavansh Haveli — Jaisalmer",
     defaultDescription:
@@ -41,7 +41,7 @@ export const SITE_CONFIG = {
   images: {
     hero: {
       desertPanorama:
-        "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1600&q=80",
+        "https://images.unsplash.com/photo-1542401886-65d6c61db217?auto=format&fit=crop&w=1600&q=80",
       fortSilhouette:
         "https://images.unsplash.com/photo-1599661046289-e31897846e41?auto=format&fit=crop&w=1400&q=80",
       sandDunesGolden:
@@ -49,7 +49,7 @@ export const SITE_CONFIG = {
     },
     journey: {
       wideDesert:
-        "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1400&q=75",
+        "https://images.unsplash.com/photo-1542401886-65d6c61db217?auto=format&fit=crop&w=1400&q=75",
       movingSand:
         "https://images.unsplash.com/photo-1542401886-65d6c61db217?auto=format&fit=crop&w=1400&q=75",
       sandstoneWalls:
@@ -75,7 +75,7 @@ export const SITE_CONFIG = {
       courtyard:
         "https://images.unsplash.com/photo-1582719508461-905c673771fd?auto=format&fit=crop&w=1400&q=75",
       experiences:
-        "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1400&q=75",
+        "https://images.unsplash.com/photo-1542401886-65d6c61db217?auto=format&fit=crop&w=1400&q=75",
     },
     rooms: {
       maharajaSuite:
@@ -91,7 +91,7 @@ export const SITE_CONFIG = {
     },
     experiences: {
       desertSafari:
-        "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1400&q=75",
+        "https://images.unsplash.com/photo-1542401886-65d6c61db217?auto=format&fit=crop&w=1400&q=75",
       fortWalk:
         "https://images.unsplash.com/photo-1599661046289-e31897846e41?auto=format&fit=crop&w=1400&q=75",
       sunsetDunes:

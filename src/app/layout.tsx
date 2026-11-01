@@ -36,20 +36,11 @@ export const metadata: Metadata = {
     siteName: SITE_CONFIG.hotelName,
     title: SITE_CONFIG.seo.defaultTitle,
     description: SITE_CONFIG.seo.defaultDescription,
-    images: [
-      {
-        url: SITE_CONFIG.images.hero.desertPanorama,
-        width: 1200,
-        height: 630,
-        alt: `${SITE_CONFIG.hotelName} — Luxury Boutique Haveli in Jaisalmer, Rajasthan`,
-      },
-    ],
   },
   twitter: {
     card: "summary_large_image",
     title: SITE_CONFIG.seo.defaultTitle,
     description: SITE_CONFIG.seo.defaultDescription,
-    images: [SITE_CONFIG.images.hero.desertPanorama],
   },
   robots: {
     index: true,
